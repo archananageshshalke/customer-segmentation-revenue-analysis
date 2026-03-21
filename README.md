@@ -25,7 +25,7 @@ These tables are connected using keys such as *customer_id, order_id, and produc
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](customer_segmentation_dashboard.png)
+![Dashboard](customer segmentation & revenue Analysis Dashboard.png)
 
 ---
 
@@ -64,7 +64,7 @@ These tables are connected using keys such as *customer_id, order_id, and produc
 - seg_order_items.csv → Order items dataset  
 - sales_analysis_queries.sql → SQL analysis queries  
 - Customer_Segmentation_Revenue_Analysis.pbix → Power BI dashboard  
-- customer_segmentation_dashboard.png → Dashboard screenshot  
+- customer segmentation & revenue Analysis Dashboard.png → Dashboard screenshot  
 
 ---
 
