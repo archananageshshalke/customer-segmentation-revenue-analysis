@@ -25,7 +25,7 @@ These tables are connected using keys such as *customer_id, order_id, and produc
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](customer segmentation & revenue Analysis Dashboard.png)
+![Dashboard](customer_segmentation_Dashboard.png)
 
 ---
 
